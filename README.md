@@ -1,2 +1,5 @@
 # harmony-scripts
-scripts for toon boom harmony 
+
+Few scripts for toon boom harmony.
+
+
